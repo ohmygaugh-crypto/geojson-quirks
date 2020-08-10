@@ -1,0 +1,2000 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0638,34.21825 ]
+    },
+    "properties": {
+    "businessId":4017514,
+    "businessName":"Blythewood Beef",
+    "businessCity":"Blythewood",
+    "businessState":"South Carolina",
+    "businessAddress":"2331 Muller Road",
+    "zipcode":29016,
+    "fullAddress":"Blythewood, South Carolina, 2331 Muller Road, 29016",
+    "website":"www.blythewoodbeef.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Non-poultry meat,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Hay rides; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5783,34.20989 ]
+    },
+    "properties": {
+    "businessId":4017663,
+    "businessName":"Old McCaskill's Farm",
+    "businessCity":"Rembert",
+    "businessState":"South Carolina",
+    "businessAddress":"377 Cantey Lane",
+    "zipcode":29128,
+    "fullAddress":"Rembert, South Carolina, 377 Cantey Lane, 29128",
+    "website":"oldmccaskillsfarm@gmail.com",
+    "reviewDate":"01/01/2015 to 12/31/2015",
+    "categories":"Baked goods, Canned or preserved food, Dairy products, Eggs, Honey, Poultry products, Prepared foods, Soap, Lamb, pork, goat, beef & chicken raised here, wool blankets & other wool products, rice & grits, goat cheeses, milk & cheese,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Hay rides; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3618,33.89626 ]
+    },
+    "properties": {
+    "businessId":4000183,
+    "businessName":"Sunny Cedars Farm",
+    "businessCity":"Sumter",
+    "businessState":"South Carolina",
+    "businessAddress":"701 Singleton Lane",
+    "zipcode":29154,
+    "fullAddress":"Sumter, South Carolina, 701 Singleton Lane, 29154",
+    "website":"www.sunnycedars.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Non-poultry meat,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Hay rides; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5837,34.55182 ]
+    },
+    "properties": {
+    "businessId":4017774,
+    "businessName":"Roberts Family Farm",
+    "businessCity":"Kershaw",
+    "businessState":"South Carolina",
+    "businessAddress":"100-142 E Hilton St",
+    "zipcode":29067,
+    "fullAddress":"Kershaw, South Carolina, 100-142 E Hilton St, 29067",
+    "website":"http://amandaroberts004.wix.com/robertsfamilyfarm",
+    "reviewDate":"01/01/2014 to 12/31/2015",
+    "categories":"Crafts and/or woodworking items, Cut flowers, Eggs, Herbs, Fresh fruits, Fresh vegetables,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Hay rides; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.872,33.74584 ]
+    },
+    "properties": {
+    "businessId":4017239,
+    "businessName":"Cook's Farm",
+    "businessCity":"Trenton",
+    "businessState":"South Carolina",
+    "businessAddress":"1236 Augusta Road",
+    "zipcode":29847,
+    "fullAddress":"Trenton, South Carolina, 1236 Augusta Road, 29847",
+    "website":"http://www.cooksfarm.com",
+    "reviewDate":"04/01/2014 to 05/26/2014",
+    "categories":"Bedding plants, Canned or preserved food, Fresh fruits, Fresh vegetables, Honey, Juices,",
+    "ActivityList":"",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1928,34.43638 ]
+    },
+    "properties": {
+    "businessId":4014133,
+    "businessName":"McLeod Farms Market",
+    "businessCity":"McBee",
+    "businessState":"South Carolina",
+    "businessAddress":"29247 Hwy 151 South",
+    "zipcode":29101,
+    "fullAddress":"McBee, South Carolina, 29247 Hwy 151 South, 29101",
+    "website":"www.macspride.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Baked goods, Canned or preserved food, Coffee and/or tea, Dairy products, Fresh fruits, Fresh vegetables, Honey, Juices, Maple products, Nuts, Prepared foods,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Pick Your Own/U-Pick operation; Pumpkin shooting; Hay rides; Corn maze; Pony rides;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.2132,34.81108 ]
+    },
+    "properties": {
+    "businessId":4017585,
+    "businessName":"Watson Farms Pastured Meats",
+    "businessCity":"Chester",
+    "businessState":"South Carolina",
+    "businessAddress":"713 Colony Road",
+    "zipcode":29706,
+    "fullAddress":"Chester, South Carolina, 713 Colony Road, 29706",
+    "website":"http://www.watsonfarmsbeef.com/",
+    "reviewDate":"01/01/2015 to 12/31/2015",
+    "categories":"Poultry products, Grass-finished Beef, Pastured Pork, Pastured Chicken,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.8624,33.53062 ]
+    },
+    "properties": {
+    "businessId":4017330,
+    "businessName":"RAZE Organic Grown Products",
+    "businessCity":"Graniteville",
+    "businessState":"South Carolina",
+    "businessAddress":"135 Mustang Dr",
+    "zipcode":29829,
+    "fullAddress":"Graniteville, South Carolina, 135 Mustang Dr, 29829",
+    "website":"N/A",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Poultry products, Grass-finished Beef, Pastured Pork, Pastured Chicken,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8609,34.89091 ]
+    },
+    "properties": {
+    "businessId":4015775,
+    "businessName":"The Ivy Place LLC",
+    "businessCity":"Lancaster",
+    "businessState":"South Carolina",
+    "businessAddress":"8603 Van Wyck Road",
+    "zipcode":29720,
+    "fullAddress":"Lancaster, South Carolina, 8603 Van Wyck Road, 29720",
+    "website":"www.ivyplaceevents.com",
+    "reviewDate":"04/07/2014 to 07/01/2014",
+    "categories":"Cut flowers, Fresh fruits,",
+    "ActivityList":"Celebrations/ corporate events; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3427,33.25705 ]
+    },
+    "properties": {
+    "businessId":4016613,
+    "businessName":"Hickory Bluff Berry Farm",
+    "businessCity":"Holly Hill",
+    "businessState":"South Carolina",
+    "businessAddress":"245 Hickory Bluff Lane",
+    "zipcode":29059,
+    "fullAddress":"Holly Hill, South Carolina, 245 Hickory Bluff Lane, 29059",
+    "website":"N/A",
+    "reviewDate":"All Year",
+    "categories":"Cut flowers, Fresh fruits,",
+    "ActivityList":"Celebrations/ corporate events; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.7841,33.04657 ]
+    },
+    "properties": {
+    "businessId":4022246,
+    "businessName":"Lil Johnson Rayanch",
+    "businessCity":"Ruffin",
+    "businessState":"South Carolina",
+    "businessAddress":"213 Clatty Farm Rd.",
+    "zipcode":29475,
+    "fullAddress":"Ruffin, South Carolina, 213 Clatty Farm Rd., 29475",
+    "website":"N/A",
+    "reviewDate":"01/01/2016 to 12/31/2016",
+    "categories":"Eggs, Poultry products, Non-poultry meat, Goats,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9577,35.01933 ]
+    },
+    "properties": {
+    "businessId":4017201,
+    "businessName":"The Peach Stand",
+    "businessCity":"Fort Mill",
+    "businessState":"South Carolina",
+    "businessAddress":"1325 Hwy 160 West",
+    "zipcode":29715,
+    "fullAddress":"Fort Mill, South Carolina, 1325 Hwy 160 West, 29715",
+    "website":"www.peachstand.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Baked goods, Canned or preserved food, Coffee and/or tea, Crafts and/or woodworking items, Dairy products, Eggs, Fish and/or seafood, Herbs, Fresh fruits, Fresh vegetables, Grains and/or flour, Honey, Juices, Maple products, Mushrooms, Nuts, Poultry products, Prepared foods, Non-poultry meat, Soap, Wine,",
+    "ActivityList":"",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.9146,35.04047 ]
+    },
+    "properties": {
+    "businessId":4013262,
+    "businessName":"Springs Farm",
+    "businessCity":"Fort Mill",
+    "businessState":"South Carolina",
+    "businessAddress":"1010 Springfield Parkway",
+    "zipcode":29716,
+    "fullAddress":"Fort Mill, South Carolina, 1010 Springfield Parkway, 29716",
+    "website":"www.springsfarm.com",
+    "reviewDate":"04/18/2014 to 10/31/2014",
+    "categories":"Baked goods, Canned or preserved food, Dairy products, Eggs, Herbs, Fresh fruits, Fresh vegetables, Honey, Juices,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5503,34.98882 ]
+    },
+    "properties": {
+    "businessId":4022423,
+    "businessName":"Flag Branch Farm",
+    "businessCity":"Monroe",
+    "businessState":"North Carolina",
+    "businessAddress":"805 Skyway Dr",
+    "zipcode":28110,
+    "fullAddress":"Monroe, North Carolina, 805 Skyway Dr, 28110",
+    "website":"https://www.facebook.com/unioncountylocalmarket/",
+    "reviewDate":"01/01/2020 to 12/31/2020",
+    "categories":"Poultry products, Non-poultry meat, Pasture raised pork, lamb and turkey (seasonal),",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.8853,34.79091 ]
+    },
+    "properties": {
+    "businessId":4016683,
+    "businessName":"Anderson Vineyards",
+    "businessCity":"Pauline",
+    "businessState":"South Carolina",
+    "businessAddress":"1221 Riddle Rd",
+    "zipcode":29374,
+    "fullAddress":"Pauline, South Carolina, 1221 Riddle Rd, 29374",
+    "website":"N/A",
+    "reviewDate":"All Year",
+    "categories":"Poultry products, Non-poultry meat, Pasture raised pork, lamb and turkey (seasonal),",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4129,35.04649 ]
+    },
+    "properties": {
+    "businessId":4017499,
+    "businessName":"Roger Ridge Ranch",
+    "businessCity":"Smyrna",
+    "businessState":"South Carolina",
+    "businessAddress":"4700 Canaan Church Road",
+    "zipcode":29743,
+    "fullAddress":"Smyrna, South Carolina, 4700 Canaan Church Road, 29743",
+    "website":"www.rogerridgeranch.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Eggs, Poultry products, Non-poultry meat,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Family/ youth activities; Tours of manufacturing facilities; Hay rides; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3779,34.17994 ]
+    },
+    "properties": {
+    "businessId":4003142,
+    "businessName":"Southern Oaks Jersey Farm & Creamery",
+    "businessCity":"Abbeville",
+    "businessState":"South Carolina",
+    "businessAddress":"1458 Hwy. 20",
+    "zipcode":29620,
+    "fullAddress":"Abbeville, South Carolina, 1458 Hwy. 20, 29620",
+    "website":"N/A",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Dairy products, Eggs, Honey, Poultry products, Non-poultry meat, Soap,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Petting zoo;",
+    "FacilitiesList":"Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4161,34.17432 ]
+    },
+    "properties": {
+    "businessId":4022397,
+    "businessName":"The Twenty-eight Eleven (The 2811)",
+    "businessCity":"Abbeville",
+    "businessState":"South Carolina",
+    "businessAddress":"211 Melaleuca lane",
+    "zipcode":29620,
+    "fullAddress":"Abbeville, South Carolina, 211 Melaleuca lane, 29620",
+    "website":"www.the2811.com",
+    "reviewDate":"06/15/2019 to 09/30/2019",
+    "categories":"Eggs, Fresh vegetables, Honey, Poultry products,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Petting zoo;",
+    "FacilitiesList":"Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6297,35.2411 ]
+    },
+    "properties": {
+    "businessId":4017536,
+    "businessName":"Scallys Natural Beef",
+    "businessCity":"Charlotte",
+    "businessState":"North Carolina",
+    "businessAddress":"12720 Rocky River Church Road",
+    "zipcode":28215,
+    "fullAddress":"Charlotte, North Carolina, 12720 Rocky River Church Road, 28215",
+    "website":"scallysnaturalbeef.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"We raise and sell only Natural Beef,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Petting zoo;",
+    "FacilitiesList":"Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.2996,34.78597 ]
+    },
+    "properties": {
+    "businessId":4022422,
+    "businessName":"Bohica Pepper Hut",
+    "businessCity":"MAULDIN",
+    "businessState":"South Carolina",
+    "businessAddress":"100 LYLE ST",
+    "zipcode":29662,
+    "fullAddress":"MAULDIN, South Carolina, 100 LYLE ST, 29662",
+    "website":"www.bohicapepperhut.com",
+    "reviewDate":"07/12/2020 to 10/31/2020",
+    "categories":"Fresh vegetables, seeds,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Petting zoo;",
+    "FacilitiesList":"Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0885,35.38486 ]
+    },
+    "properties": {
+    "businessId":4004503,
+    "businessName":"Apple Orchard Farm",
+    "businessCity":"Stanley",
+    "businessState":"North Carolina",
+    "businessAddress":"640 Mariposa Road",
+    "zipcode":28164,
+    "fullAddress":"Stanley, North Carolina, 640 Mariposa Road, 28164",
+    "website":"appleorchardfarmnc.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Eggs, Honey, Non-poultry meat,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.1804,35.22005 ]
+    },
+    "properties": {
+    "businessId":4017254,
+    "businessName":"Berry Busy Farm LLC",
+    "businessCity":"Norwood",
+    "businessState":"North Carolina",
+    "businessAddress":"8796 Cottonville Road",
+    "zipcode":28128,
+    "fullAddress":"Norwood, North Carolina, 8796 Cottonville Road, 28128",
+    "website":"N/A",
+    "reviewDate":"All Year",
+    "categories":"Canned or preserved food, Fresh fruits, Fresh vegetables, Honey,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4963,34.68267 ]
+    },
+    "properties": {
+    "businessId":4017361,
+    "businessName":"Hurricane Creek Farms",
+    "businessCity":"Pelzer",
+    "businessState":"South Carolina",
+    "businessAddress":"220 Moores Mill Rd.",
+    "zipcode":29669,
+    "fullAddress":"Pelzer, South Carolina, 220 Moores Mill Rd., 29669",
+    "website":"www.hurricanecreekfarms.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Canned or preserved food, Dairy products, Herbs, Fresh vegetables, Grains and/or flour, Honey, Non-poultry meat,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0667,35.4385 ]
+    },
+    "properties": {
+    "businessId":4017484,
+    "businessName":"Gilcrest Natural Far",
+    "businessCity":"Iron Station",
+    "businessState":"North Carolina",
+    "businessAddress":"1164 Lowes Lane",
+    "zipcode":28080,
+    "fullAddress":"Iron Station, North Carolina, 1164 Lowes Lane, 28080",
+    "website":"www.gilcrestnc.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Fresh vegetables, Pet food, Poultry products, Non-poultry meat,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3166,34.97252 ]
+    },
+    "properties": {
+    "businessId":4017515,
+    "businessName":"Satterfield Farms",
+    "businessCity":"Taylors",
+    "businessState":"South Carolina",
+    "businessAddress":"140 Edith Drive",
+    "zipcode":29687,
+    "fullAddress":"Taylors, South Carolina, 140 Edith Drive, 29687",
+    "website":"http://www.facebook.com/satterfieldgrassfedbeef",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Fresh vegetables, Pet food, Poultry products, Non-poultry meat,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.5544,32.60041 ]
+    },
+    "properties": {
+    "businessId":4004268,
+    "businessName":"Savannah River Farms, INC.",
+    "businessCity":"Sylvania",
+    "businessState":"Georgia",
+    "businessAddress":"194 Boykin Rd.",
+    "zipcode":30467,
+    "fullAddress":"Sylvania, Georgia, 194 Boykin Rd., 30467",
+    "website":"www.savannahriverfarms.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Poultry products, Non-poultry meat,",
+    "ActivityList":"Tours of manufacturing facilities;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.499,35.42049 ]
+    },
+    "properties": {
+    "businessId":4017744,
+    "businessName":"Martins' Charolais Farm",
+    "businessCity":"Shelby",
+    "businessState":"North Carolina",
+    "businessAddress":"4408 Fallston Rd",
+    "zipcode":28150,
+    "fullAddress":"Shelby, North Carolina, 4408 Fallston Rd, 28150",
+    "website":"N/A",
+    "reviewDate":"01/01/2015 to 12/31/2015",
+    "categories":"Beef,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.0904,32.70599 ]
+    },
+    "properties": {
+    "businessId":4015040,
+    "businessName":"Brigger Hill Farm",
+    "businessCity":"Wadmalaw Island",
+    "businessState":"South Carolina",
+    "businessAddress":"1884 Bugby Plantation Road",
+    "zipcode":29487,
+    "fullAddress":"Wadmalaw Island, South Carolina, 1884 Bugby Plantation Road, 29487",
+    "website":"N/A",
+    "reviewDate":"05/01/2014 to 08/01/2014",
+    "categories":"Fresh fruits, Fresh vegetables,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3185,35.38169 ]
+    },
+    "properties": {
+    "businessId":4017336,
+    "businessName":"Muddy Boots Farms",
+    "businessCity":"Albemarle",
+    "businessState":"North Carolina",
+    "businessAddress":"20750 NC 73 Hwy",
+    "zipcode":28001,
+    "fullAddress":"Albemarle, North Carolina, 20750 NC 73 Hwy, 28001",
+    "website":"www.muddybootsfarms.com",
+    "reviewDate":"05/01/2014 to 08/01/2015",
+    "categories":"Fresh fruits, Fresh vegetables,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.3476,32.59745 ]
+    },
+    "properties": {
+    "businessId":4016699,
+    "businessName":"Geechie Boy Market Mill",
+    "businessCity":"Edisto Island",
+    "businessState":"South Carolina",
+    "businessAddress":"2995 highway 174",
+    "zipcode":29438,
+    "fullAddress":"Edisto Island, South Carolina, 2995 highway 174, 29438",
+    "website":"geechieboymill.com",
+    "reviewDate":"03/01/2014 to 12/31/2014",
+    "categories":"Baked goods, Canned or preserved food, Coffee and/or tea, Crafts and/or woodworking items, Cut flowers, Dairy products, Dry beans, Eggs, Herbs, Fresh fruits, Fresh vegetables, Grains and/or flour, Honey, Nuts, Soap,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Tours of manufacturing facilities;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3483,34.99927 ]
+    },
+    "properties": {
+    "businessId":4017317,
+    "businessName":"Whites Jersey Dairy",
+    "businessCity":"Taylors",
+    "businessState":"South Carolina",
+    "businessAddress":"5965 Mountain View Rd",
+    "zipcode":29687,
+    "fullAddress":"Taylors, South Carolina, 5965 Mountain View Rd, 29687",
+    "website":"N/A",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Dairy products,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Tours of manufacturing facilities;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.4869,35.46296 ]
+    },
+    "properties": {
+    "businessId":4013811,
+    "businessName":"Summerberry Farm",
+    "businessCity":"Concord",
+    "businessState":"North Carolina",
+    "businessAddress":"3430 Rimer Road",
+    "zipcode":28025,
+    "fullAddress":"Concord, North Carolina, 3430 Rimer Road, 28025",
+    "website":"N/A",
+    "reviewDate":"06/29/2014 to 07/22/2014",
+    "categories":"Dairy products,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.5017,33.09613 ]
+    },
+    "properties": {
+    "businessId":4003960,
+    "businessName":"Blue Pearl Farms",
+    "businessCity":"McClellanville",
+    "businessState":"South Carolina",
+    "businessAddress":"9760 Randall Rd",
+    "zipcode":29458,
+    "fullAddress":"McClellanville, South Carolina, 9760 Randall Rd, 29458",
+    "website":"bluepearlfarms.com",
+    "reviewDate":"05/01/2015 to 08/01/2015",
+    "categories":"Canned or preserved food, Fresh fruits, Honey, Soap,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Other: Fall harvest festival featuring blue crab and oysters;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2898,33.39873 ]
+    },
+    "properties": {
+    "businessId":4017485,
+    "businessName":"MILLGROVE FARMS TOWN MARKET",
+    "businessCity":"Georgetown",
+    "businessState":"South Carolina",
+    "businessAddress":"1711 North Fraser Street",
+    "zipcode":29440,
+    "fullAddress":"Georgetown, South Carolina, 1711 North Fraser Street, 29440",
+    "website":"http://www.millgrovefarms.com/",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Bedding plants, Crafts and/or woodworking items, Cut flowers, Dairy products, Dry beans, Herbs, Fresh fruits, Fresh vegetables, Grains and/or flour, Juices, Mushrooms, Non-poultry meat,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4431,34.96744 ]
+    },
+    "properties": {
+    "businessId":4001609,
+    "businessName":"The Carolina Honey Bee Company - Carolina Bee Supply LLC",
+    "businessCity":"Travelers Rest",
+    "businessState":"South Carolina",
+    "businessAddress":"10 South Main Street",
+    "zipcode":29690,
+    "fullAddress":"Travelers Rest, South Carolina, 10 South Main Street, 29690",
+    "website":"https://www.carolinahoneybeecompany.com",
+    "reviewDate":"01/01/2014 to 12/31/2015",
+    "categories":"Honey,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities;",
+    "FacilitiesList":"Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4178,35.51416 ]
+    },
+    "properties": {
+    "businessId":4016624,
+    "businessName":"Helms Christmas Tree Farm",
+    "businessCity":"Vale",
+    "businessState":"North Carolina",
+    "businessAddress":"6345 Christmas Tree Ln.",
+    "zipcode":28168,
+    "fullAddress":"Vale, North Carolina, 6345 Christmas Tree Ln., 28168",
+    "website":"www.HelmsChristmasTreeFarm",
+    "reviewDate":"06/01/2014 to 08/01/2014",
+    "categories":"Fresh fruits,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Pick Your Own/U-Pick operation; Hay rides; Petting zoo; Other: Train Rides, Covered wagon rides.;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.076,35.3254 ]
+    },
+    "properties": {
+    "businessId":4015044,
+    "businessName":"Green River Farm Millspring",
+    "businessCity":"Mill Spring",
+    "businessState":"North Carolina",
+    "businessAddress":"10103 Highway 108 E",
+    "zipcode":28756,
+    "fullAddress":"Mill Spring, North Carolina, 10103 Highway 108 E, 28756",
+    "website":"N/A",
+    "reviewDate":"06/23/2015 to 08/08/2015",
+    "categories":"Fresh fruits, Pick your own blueberries,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.03,35.59573 ]
+    },
+    "properties": {
+    "businessId":4004431,
+    "businessName":"BirdBrain Ostrich Ranch Inc.",
+    "businessCity":"Sherrills Ford",
+    "businessState":"North Carolina",
+    "businessAddress":"6691 Little Mountain Road",
+    "zipcode":28673,
+    "fullAddress":"Sherrills Ford, North Carolina, 6691 Little Mountain Road, 28673",
+    "website":"www.birdbrainranch.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Crafts and/or woodworking items, Eggs, Poultry products, Non-poultry meat, Soap,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.3768,35.5736 ]
+    },
+    "properties": {
+    "businessId":4003238,
+    "businessName":"Windy Wool Windings",
+    "businessCity":"Vale",
+    "businessState":"North Carolina",
+    "businessAddress":"5247 Plateau Road",
+    "zipcode":28168,
+    "fullAddress":"Vale, North Carolina, 5247 Plateau Road, 28168",
+    "website":"saintsandstars.powweb.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Non-poultry meat,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5099,32.41293 ]
+    },
+    "properties": {
+    "businessId":4013012,
+    "businessName":"Dempsey Farms UPick",
+    "businessCity":"Saint Helena Island",
+    "businessState":"South Carolina",
+    "businessAddress":"1576 Sea Island Parkway",
+    "zipcode":29920,
+    "fullAddress":"Saint Helena Island, South Carolina, 1576 Sea Island Parkway, 29920",
+    "website":"dempseyfarmsupick.com",
+    "reviewDate":"01/01/2014 to 12/31/2015",
+    "categories":"Non-poultry meat,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9484,33.88969 ]
+    },
+    "properties": {
+    "businessId":4012897,
+    "businessName":"Bruces Blueberries",
+    "businessCity":"Conway",
+    "businessState":"South Carolina",
+    "businessAddress":"141 Rainbow Road",
+    "zipcode":29526,
+    "fullAddress":"Conway, South Carolina, 141 Rainbow Road, 29526",
+    "website":"N/A",
+    "reviewDate":"06/12/2015 to 08/02/2015",
+    "categories":"Non-poultry meat,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.5745,35.66327 ]
+    },
+    "properties": {
+    "businessId":4013873,
+    "businessName":"Cauble Creek Vineyard",
+    "businessCity":"Salisbury",
+    "businessState":"North Carolina",
+    "businessAddress":"700 Cauble Farm Road",
+    "zipcode":28147,
+    "fullAddress":"Salisbury, North Carolina, 700 Cauble Farm Road, 28147",
+    "website":"www.caublecreekvineyard.com",
+    "reviewDate":"08/25/2014 to 09/29/2014",
+    "categories":"Fresh fruits, Juices, Nuts, Soap, Wine,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2062,34.89526 ]
+    },
+    "properties": {
+    "businessId":4017153,
+    "businessName":"Hawkeye Farms",
+    "businessCity":"Red Springs",
+    "businessState":"North Carolina",
+    "businessAddress":"5700 Red Springs Rd",
+    "zipcode":28377,
+    "fullAddress":"Red Springs, North Carolina, 5700 Red Springs Rd, 28377",
+    "website":"http://hawkeyeindianculturalcenter.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Herbs, Fresh fruits, Fresh vegetables,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Other: We offer volunteer opportunities to groups of all ages to assist on the farm. Walking trail around the pond along with canoe, kayak, and paddle boat activities. ;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.8696,34.83995 ]
+    },
+    "properties": {
+    "businessId":4004327,
+    "businessName":"The Happy Berry",
+    "businessCity":"Six Mile",
+    "businessState":"South Carolina",
+    "businessAddress":"510 Gap Hill Rd. - No Mail Receptacle",
+    "zipcode":29682,
+    "fullAddress":"Six Mile, South Carolina, 510 Gap Hill Rd. - No Mail Receptacle, 29682",
+    "website":"www.thehappyberry.com",
+    "reviewDate":"06/01/2014 to 10/31/2014",
+    "categories":"Fresh fruits,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.4122,35.36482 ]
+    },
+    "properties": {
+    "businessId":4017397,
+    "businessName":"Grandads apples",
+    "businessCity":"Hendersonville",
+    "businessState":"North Carolina",
+    "businessAddress":"2951 chimney rock rd",
+    "zipcode":28792,
+    "fullAddress":"Hendersonville, North Carolina, 2951 chimney rock rd, 28792",
+    "website":"Www.grandadsapples.com",
+    "reviewDate":"07/25/2014 to 12/01/2014",
+    "categories":"Baked goods, Canned or preserved food, Coffee and/or tea, Fresh fruits, Fresh vegetables, Honey, Juices, Maple products,",
+    "ActivityList":"Family/ youth activities; Pick Your Own/U-Pick operation; Corn maze;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.3803,35.39779 ]
+    },
+    "properties": {
+    "businessId":4014439,
+    "businessName":"Justus Orchard",
+    "businessCity":"Hendersonville",
+    "businessState":"North Carolina",
+    "businessAddress":"187 Garren Road",
+    "zipcode":28792,
+    "fullAddress":"Hendersonville, North Carolina, 187 Garren Road, 28792",
+    "website":"www.justusorchard.com",
+    "reviewDate":"07/01/2014 to 11/02/2014",
+    "categories":"Baked goods, Canned or preserved food, Coffee and/or tea, Cut flowers, Fresh fruits, Fresh vegetables, Honey, Juices, Prepared foods, Soap,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation; Hay rides; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.8085,34.09458 ]
+    },
+    "properties": {
+    "businessId":4013040,
+    "businessName":"Fowler Farms Fresh Produce",
+    "businessCity":"Tabor City",
+    "businessState":"North Carolina",
+    "businessAddress":"669 Wright Road",
+    "zipcode":28463,
+    "fullAddress":"Tabor City, North Carolina, 669 Wright Road, 28463",
+    "website":"N/A",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Crafts and/or woodworking items, Cut flowers, Eggs, Fresh fruits, Fresh vegetables, Nuts,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.4934,35.79905 ]
+    },
+    "properties": {
+    "businessId":4015404,
+    "businessName":"Johnny Wilson Farm LLC",
+    "businessCity":"Granite Falls",
+    "businessState":"North Carolina",
+    "businessAddress":"2547 Dry Ponds Rd",
+    "zipcode":28630,
+    "fullAddress":"Granite Falls, North Carolina, 2547 Dry Ponds Rd, 28630",
+    "website":"johnnywilsonfarm.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Eggs, Honey,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Hay rides; Corn maze; Petting zoo;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4118,35.32198 ]
+    },
+    "properties": {
+    "businessId":4017502,
+    "businessName":"Karefree Produce",
+    "businessCity":"Carthage",
+    "businessState":"North Carolina",
+    "businessAddress":"4680 US HWY 15-501",
+    "zipcode":28327,
+    "fullAddress":"Carthage, North Carolina, 4680 US HWY 15-501, 28327",
+    "website":"www.karefreeproduce.com",
+    "reviewDate":"04/01/2014 to 12/24/2014",
+    "categories":"Baked goods, Bedding plants, Canned or preserved food, Crafts and/or woodworking items, Eggs, Fresh fruits, Fresh vegetables, Honey, Maple products, Nursery stock, Nuts, Poultry products, Prepared foods,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.279,34.27064 ]
+    },
+    "properties": {
+    "businessId":4017752,
+    "businessName":"Menagerie Acres",
+    "businessCity":"Royston",
+    "businessState":"Georgia",
+    "businessAddress":"400 Bold Springs Rd",
+    "zipcode":30662,
+    "fullAddress":"Royston, Georgia, 400 Bold Springs Rd, 30662",
+    "website":"N/A",
+    "reviewDate":"01/01/2016 to 12/31/2016",
+    "categories":"Baked goods, Bedding plants, Cut flowers, Eggs, Herbs, Fresh fruits, Fresh vegetables, dried apples,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6399,33.83287 ]
+    },
+    "properties": {
+    "businessId":4017395,
+    "businessName":"Natural Grown Meats",
+    "businessCity":"North Myrtle Beach",
+    "businessState":"South Carolina",
+    "businessAddress":"413 29th Avenue North",
+    "zipcode":29582,
+    "fullAddress":"North Myrtle Beach, South Carolina, 413 29th Avenue North, 29582",
+    "website":"NaturalGrownMeats.com",
+    "reviewDate":"All Year",
+    "categories":"Baked goods, Bedding plants, Cut flowers, Eggs, Herbs, Fresh fruits, Fresh vegetables, dried apples,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.3463,33.80641 ]
+    },
+    "properties": {
+    "businessId":4017791,
+    "businessName":"Oconee Fresh Farms",
+    "businessCity":"Watkinsville",
+    "businessState":"Georgia",
+    "businessAddress":"3753 Greensboro HWY",
+    "zipcode":30677,
+    "fullAddress":"Watkinsville, Georgia, 3753 Greensboro HWY, 30677",
+    "website":"N/A",
+    "reviewDate":"01/01/2016 to 12/31/2016",
+    "categories":"Fresh fruits, Fresh vegetables,",
+    "ActivityList":"Other: Educational Tours;",
+    "FacilitiesList":"Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.289,35.37761 ]
+    },
+    "properties": {
+    "businessId":4022435,
+    "businessName":"Johnson Family Produce and General Store",
+    "businessCity":"Carthage",
+    "businessState":"North Carolina",
+    "businessAddress":"407 US Hwy 15 501",
+    "zipcode":28327,
+    "fullAddress":"Carthage, North Carolina, 407 US Hwy 15 501, 28327",
+    "website":"johnsonfamilyproduce.com",
+    "reviewDate":"01/01/2020 to 12/31/2020",
+    "categories":"Baked goods, Canned or preserved food, Coffee and/or tea, Dairy products, Dry beans, Eggs, Fresh fruits, Fresh vegetables, Grains and/or flour, Honey, Juices, Nuts, Poultry products, Prepared foods, Non-poultry meat, Soap,",
+    "ActivityList":"Family/ youth activities; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8218,35.97832 ]
+    },
+    "properties": {
+    "businessId":4017141,
+    "businessName":"Prevette Family Farm",
+    "businessCity":"Olin",
+    "businessState":"North Carolina",
+    "businessAddress":"236 Williamsburg Road",
+    "zipcode":28660,
+    "fullAddress":"Olin, North Carolina, 236 Williamsburg Road, 28660",
+    "website":"prevettefamilyfarm.com",
+    "reviewDate":"03/01/2014 to 10/31/2014",
+    "categories":"Bedding plants, Fresh fruits, Fresh vegetables, Nursery stock,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7139,34.66822 ]
+    },
+    "properties": {
+    "businessId":4003531,
+    "businessName":"Lu Mil Vineyard",
+    "businessCity":"Elizabethtown",
+    "businessState":"North Carolina",
+    "businessAddress":"438 Suggs-Taylor Road",
+    "zipcode":28337,
+    "fullAddress":"Elizabethtown, North Carolina, 438 Suggs-Taylor Road, 28337",
+    "website":"N/A",
+    "reviewDate":"All Year",
+    "categories":"Bedding plants, Fresh fruits, Fresh vegetables, Nursery stock,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.2676,34.76676 ]
+    },
+    "properties": {
+    "businessId":4000643,
+    "businessName":"Chattooga Belle Farm",
+    "businessCity":"Long Creek",
+    "businessState":"South Carolina",
+    "businessAddress":"454 Damascus Church Road",
+    "zipcode":29658,
+    "fullAddress":"Long Creek, South Carolina, 454 Damascus Church Road, 29658",
+    "website":"www.ChattoogaBelleFarm.com",
+    "reviewDate":"05/01/2014 to 10/31/2014",
+    "categories":"Baked goods, Canned or preserved food, Crafts and/or woodworking items, Dairy products, Eggs, Fresh fruits, Honey, Juices, Prepared foods, Non-poultry meat, Soap, Wine,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Pick Your Own/U-Pick operation; Tours of manufacturing facilities;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.4657,33.84845 ]
+    },
+    "properties": {
+    "businessId":4017252,
+    "businessName":"Whippoorwill Blueberries",
+    "businessCity":"Watkinsville",
+    "businessState":"Georgia",
+    "businessAddress":"1571 Whippoorwill Road",
+    "zipcode":30677,
+    "fullAddress":"Watkinsville, Georgia, 1571 Whippoorwill Road, 30677",
+    "website":"N/A",
+    "reviewDate":"06/15/2015 to 07/15/2015",
+    "categories":"Fresh fruits,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.8802,35.95856 ]
+    },
+    "properties": {
+    "businessId":4015366,
+    "businessName":"Bernies Berries and Produce",
+    "businessCity":"Greensboro",
+    "businessState":"North Carolina",
+    "businessAddress":"6126 Jonquil Drive",
+    "zipcode":27407,
+    "fullAddress":"Greensboro, North Carolina, 6126 Jonquil Drive, 27407",
+    "website":"Bernies Berries. com",
+    "reviewDate":"04/20/2015 to 10/16/2015",
+    "categories":"Fresh fruits, Fresh vegetables, Honey,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.2762,35.65404 ]
+    },
+    "properties": {
+    "businessId":4017474,
+    "businessName":"Busy Bee Farm",
+    "businessCity":"Pittsboro",
+    "businessState":"North Carolina",
+    "businessAddress":"1092 Dewitt Smith Rd.",
+    "zipcode":27312,
+    "fullAddress":"Pittsboro, North Carolina, 1092 Dewitt Smith Rd., 27312",
+    "website":"chathamcountybeeman@yahoo.com",
+    "reviewDate":"06/20/2015 to 08/31/2015",
+    "categories":"Fresh vegetables, Honey,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.6527,35.90504 ]
+    },
+    "properties": {
+    "businessId":4017554,
+    "businessName":"Barn Door Nursery and Produce",
+    "businessCity":"Julian",
+    "businessState":"North Carolina",
+    "businessAddress":"6709 Liberty Road",
+    "zipcode":27283,
+    "fullAddress":"Julian, North Carolina, 6709 Liberty Road, 27283",
+    "website":"N/A",
+    "reviewDate":"04/06/2015 to 06/30/2015",
+    "categories":"Bedding plants, Herbs, Fresh fruits, Fresh vegetables, Nursery stock,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.55,35.89745 ]
+    },
+    "properties": {
+    "businessId":4014096,
+    "businessName":"Cedar View Farm",
+    "businessCity":"Liberty",
+    "businessState":"North Carolina",
+    "businessAddress":"7466 Richland Church Road",
+    "zipcode":27298,
+    "fullAddress":"Liberty, North Carolina, 7466 Richland Church Road, 27298",
+    "website":"7466 Richland Ch. RD.",
+    "reviewDate":"06/18/2014 to 12/12/2014",
+    "categories":"Fresh fruits, Fresh vegetables, Honey,",
+    "ActivityList":"",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.3279,35.82623 ]
+    },
+    "properties": {
+    "businessId":4017534,
+    "businessName":"Cohen Farm",
+    "businessCity":"Pittsboro",
+    "businessState":"North Carolina",
+    "businessAddress":"688 Van Thomas Rd",
+    "zipcode":27312,
+    "fullAddress":"Pittsboro, North Carolina, 688 Van Thomas Rd, 27312",
+    "website":"www.cohenfarm.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Dry beans, Eggs, Beef and Pork, Certified Organic Hay, Organic Grapes, Seasonal Produce, please call for availibiltiy,",
+    "ActivityList":"Other: Farm tour through People First Tourism;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.6249,36.00075 ]
+    },
+    "properties": {
+    "businessId":4017247,
+    "businessName":"Foust Family Farms",
+    "businessCity":"Whitsett",
+    "businessState":"North Carolina",
+    "businessAddress":"3625 Old Julian Rd",
+    "zipcode":27377,
+    "fullAddress":"Whitsett, North Carolina, 3625 Old Julian Rd, 27377",
+    "website":"www.FoustFamilyFarms.com",
+    "reviewDate":"04/13/2014 to 08/10/2014",
+    "categories":"Bedding plants, Crafts and/or woodworking items, Eggs, Herbs, Fresh fruits, Fresh vegetables,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.2372,36.25653 ]
+    },
+    "properties": {
+    "businessId":4001298,
+    "businessName":"Buffalo Creek Farm and Creamery, LLC",
+    "businessCity":"Germanton",
+    "businessState":"North Carolina",
+    "businessAddress":"3241 Buffalo Creek Farm Road",
+    "zipcode":27019,
+    "fullAddress":"Germanton, North Carolina, 3241 Buffalo Creek Farm Road, 27019",
+    "website":"http://www.buffalocreekfarmandcreamery.com",
+    "reviewDate":"01/01/2015 to 12/31/2015",
+    "categories":"Canned or preserved food, Crafts and/or woodworking items, Dairy products, Eggs, Herbs, Honey, Juices, Mushrooms, Nuts, Non-poultry meat, Soap,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6661,36.33415 ]
+    },
+    "properties": {
+    "businessId":4022450,
+    "businessName":"The Farm Dobson",
+    "businessCity":"Dobson",
+    "businessState":"North Carolina",
+    "businessAddress":"769 Bray Ford Rd",
+    "zipcode":27017,
+    "fullAddress":"Dobson, North Carolina, 769 Bray Ford Rd, 27017",
+    "website":"www.letsgotothefarm.com",
+    "reviewDate":"06/20/2020 to 11/08/2020",
+    "categories":"Canned or preserved food, Dairy products, Eggs, Fresh fruits, Fresh vegetables, Non-poultry meat,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Family/ youth activities; Pick Your Own/U-Pick operation; Hay rides; Corn maze; Petting zoo; Pony rides; Other: Pizza Farm;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.5629,35.25508 ]
+    },
+    "properties": {
+    "businessId":4017307,
+    "businessName":"Twin Oaks Heritage Farm, LLC",
+    "businessCity":"Dunn",
+    "businessState":"North Carolina",
+    "businessAddress":"193 Old US 421 Hwy S",
+    "zipcode":28334,
+    "fullAddress":"Dunn, North Carolina, 193 Old US 421 Hwy S, 28334",
+    "website":"www.graysonspremiumpork.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Canned or preserved food, Dairy products, Eggs, Fresh fruits, Fresh vegetables, Non-poultry meat,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Family/ youth activities; Pick Your Own/U-Pick operation; Hay rides; Corn maze; Petting zoo; Pony rides; Other: Pizza Farm;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.0879,34.07029 ]
+    },
+    "properties": {
+    "businessId":4014020,
+    "businessName":"Sunrise Farms",
+    "businessCity":"Bolivia",
+    "businessState":"North Carolina",
+    "businessAddress":"5521 Rl Lewis Lane",
+    "zipcode":28422,
+    "fullAddress":"Bolivia, North Carolina, 5521 Rl Lewis Lane, 28422",
+    "website":"N/A",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Eggs,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Family/ youth activities; Pick Your Own/U-Pick operation; Hay rides; Corn maze; Petting zoo; Pony rides; Other: Pizza Farm;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7162,35.51259 ]
+    },
+    "properties": {
+    "businessId":4000924,
+    "businessName":"In Theory Farm",
+    "businessCity":"Angier",
+    "businessState":"North Carolina",
+    "businessAddress":"Black River, NC",
+    "zipcode":27501,
+    "fullAddress":"Angier, North Carolina, Black River, NC, 27501",
+    "website":"http://www.intheoryfarm.com/",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Dairy products, Eggs, Pet food, Poultry products, Non-poultry meat, Soap,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Family/ youth activities; Pick Your Own/U-Pick operation; Hay rides; Corn maze; Petting zoo; Pony rides; Other: Pizza Farm;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.081,34.20073 ]
+    },
+    "properties": {
+    "businessId":4017617,
+    "businessName":"Shelton Herb Farm",
+    "businessCity":"Leland",
+    "businessState":"North Carolina",
+    "businessAddress":"340 Goodman Rd",
+    "zipcode":28451,
+    "fullAddress":"Leland, North Carolina, 340 Goodman Rd, 28451",
+    "website":"www.SheltonHerbFarmNC.com",
+    "reviewDate":"01/01/2015 to 12/31/2015",
+    "categories":"Bedding plants, Cut flowers, Eggs, Nuts, Microgreens,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.578,36.1401 ]
+    },
+    "properties": {
+    "businessId":4000664,
+    "businessName":"Blueberry Thrill Farm",
+    "businessCity":"Gibconville",
+    "businessState":"North Carolina",
+    "businessAddress":"6938 Eaglesfield Rd",
+    "zipcode":27249,
+    "fullAddress":"Gibconville, North Carolina, 6938 Eaglesfield Rd, 27249",
+    "website":"www.blueberrythrillfarm.com",
+    "reviewDate":"06/21/2014 to 08/02/2014",
+    "categories":"Cut flowers,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.4934,35.3597 ]
+    },
+    "properties": {
+    "businessId":4017347,
+    "businessName":"Wood Family Farm",
+    "businessCity":"Benson",
+    "businessState":"North Carolina",
+    "businessAddress":"3198 Hannah Creek Road",
+    "zipcode":27504,
+    "fullAddress":"Benson, North Carolina, 3198 Hannah Creek Road, 27504",
+    "website":"www.woodfamilyfarmnc.com",
+    "reviewDate":"1/1/2014",
+    "categories":"Eggs, Non-poultry meat,",
+    "ActivityList":"Educational tours/ classes; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.6763,35.58312 ]
+    },
+    "properties": {
+    "businessId":4015135,
+    "businessName":"Adams Vineyards",
+    "businessCity":"Willow Spring",
+    "businessState":"North Carolina",
+    "businessAddress":"3390 John Adams Road",
+    "zipcode":27592,
+    "fullAddress":"Willow Spring, North Carolina, 3390 John Adams Road, 27592",
+    "website":"marketing@adamsvineyards.com",
+    "reviewDate":"01/01/2015 to 12/01/2015",
+    "categories":"Canned or preserved food, Wine,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.9425,36.33866 ]
+    },
+    "properties": {
+    "businessId":4017556,
+    "businessName":"Tucker's Farm and Nursery",
+    "businessCity":"Madison",
+    "businessState":"North Carolina",
+    "businessAddress":"3349 US Hwy 220",
+    "zipcode":27025,
+    "fullAddress":"Madison, North Carolina, 3349 US Hwy 220, 27025",
+    "website":"www.tuckersfarmnc.com",
+    "reviewDate":"04/01/2015 to 11/01/2015",
+    "categories":"Bedding plants, Cut flowers, Fresh fruits, Fresh vegetables, Nursery stock,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.555,36.21833 ]
+    },
+    "properties": {
+    "businessId":4003888,
+    "businessName":"Grove Winery",
+    "businessCity":"Gibsonville",
+    "businessState":"North Carolina",
+    "businessAddress":"7360 Brooks Bridge Rd",
+    "zipcode":27249,
+    "fullAddress":"Gibsonville, North Carolina, 7360 Brooks Bridge Rd, 27249",
+    "website":"GroveWinery.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Canned or preserved food, Fresh fruits, Fresh vegetables, Wine,",
+    "ActivityList":"Tours of manufacturing facilities;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5068,36.18893 ]
+    },
+    "properties": {
+    "businessId":4015282,
+    "businessName":"Larry Thompson Farm",
+    "businessCity":"Jonesborough",
+    "businessState":"Tennessee",
+    "businessAddress":"236 Charlie Carsom Road",
+    "zipcode":37659,
+    "fullAddress":"Jonesborough, Tennessee, 236 Charlie Carsom Road, 37659",
+    "website":"N/A",
+    "reviewDate":"05/01/2014 to 10/31/2014",
+    "categories":"Fresh vegetables,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1259,35.99765 ]
+    },
+    "properties": {
+    "businessId":4022294,
+    "businessName":"RambleRill Farm",
+    "businessCity":"Hillsborough",
+    "businessState":"North Carolina",
+    "businessAddress":"913 Arthur Minnis Road",
+    "zipcode":27278,
+    "fullAddress":"Hillsborough, North Carolina, 913 Arthur Minnis Road, 27278",
+    "website":"www.ramblerillfarm.com",
+    "reviewDate":"01/02/2017 to 12/29/2017",
+    "categories":"Baked goods, Canned or preserved food, Crafts and/or woodworking items, Cut flowers, Eggs, Fresh fruits, Fresh vegetables, Mushrooms, cards,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.8743,36.52527 ]
+    },
+    "properties": {
+    "businessId":4017736,
+    "businessName":"Davis Boxwood & Daylily Nursery",
+    "businessCity":"Lowgap",
+    "businessState":"North Carolina",
+    "businessAddress":"136 Sunset Ridge Trail",
+    "zipcode":27024,
+    "fullAddress":"Lowgap, North Carolina, 136 Sunset Ridge Trail, 27024",
+    "website":"http://davisdaylilynursery.com",
+    "reviewDate":"01/01/2015 to 12/31/2015",
+    "categories":"Nursery stock, 800 varieties of daylily's, Japanese & German Iris, Peonies ,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.6034,36.26056 ]
+    },
+    "properties": {
+    "businessId":4017208,
+    "businessName":"Devil Dog Orchard",
+    "businessCity":"Reidsville",
+    "businessState":"North Carolina",
+    "businessAddress":"771 Hwy 150",
+    "zipcode":27320,
+    "fullAddress":"Reidsville, North Carolina, 771 Hwy 150, 27320",
+    "website":"N/A",
+    "reviewDate":"08/15/2014 to 09/30/2014",
+    "categories":"Fresh fruits,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4617,36.20798 ]
+    },
+    "properties": {
+    "businessId":4013266,
+    "businessName":"Buttermilk Creek Farm",
+    "businessCity":"Burlington",
+    "businessState":"North Carolina",
+    "businessAddress":"1905 Gwyn Road",
+    "zipcode":27217,
+    "fullAddress":"Burlington, North Carolina, 1905 Gwyn Road, 27217",
+    "website":"www.buttermilkcreek.net",
+    "reviewDate":"All Year",
+    "categories":"Fresh fruits, Peaches, Blueberries, Blackberries,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.9322,35.90064 ]
+    },
+    "properties": {
+    "businessId":4003425,
+    "businessName":"Herndon Hills Farm",
+    "businessCity":"Durham",
+    "businessState":"North Carolina",
+    "businessAddress":"7110 Massey Chapel Road (Barbee Road)",
+    "zipcode":27713,
+    "fullAddress":"Durham, North Carolina, 7110 Massey Chapel Road (Barbee Road), 27713",
+    "website":"N/A",
+    "reviewDate":"All Year",
+    "categories":"Fresh fruits,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas without tables; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.9131,34.85481 ]
+    },
+    "properties": {
+    "businessId":4022273,
+    "businessName":"7M Family Farms LLC",
+    "businessCity":"Blairsville",
+    "businessState":"Georgia",
+    "businessAddress":"596 Crump Creek Rd",
+    "zipcode":30512,
+    "fullAddress":"Blairsville, Georgia, 596 Crump Creek Rd, 30512",
+    "website":"www.7mfamilyfarms.com",
+    "reviewDate":"01/01/2017 to 12/31/2017",
+    "categories":"Baked goods, Canned or preserved food, Coffee and/or tea, Crafts and/or woodworking items, Cut flowers, Dairy products, Dry beans, Eggs, Herbs, Fresh fruits, Fresh vegetables, Grains and/or flour, Grass Fed Beef, also certified Beefalo ,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Family/ youth activities; Pick Your Own/U-Pick operation; Tours of manufacturing facilities; Hay rides; Corn maze;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.7158,35.74849 ]
+    },
+    "properties": {
+    "businessId":4017172,
+    "businessName":"Inter-Faith Food Shuttle Tryon Road Farm Stand",
+    "businessCity":"Raleigh",
+    "businessState":"North Carolina",
+    "businessAddress":"4505 Tryon Road",
+    "zipcode":27606,
+    "fullAddress":"Raleigh, North Carolina, 4505 Tryon Road, 27606",
+    "website":"http://foodshuttle.org/",
+    "reviewDate":"05/09/2015 to 05/30/2015",
+    "categories":"Cut flowers, Eggs, Herbs, Fresh vegetables,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Family/ youth activities;",
+    "FacilitiesList":"Hand washing station(s); Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.7497,36.37653 ]
+    },
+    "properties": {
+    "businessId":4022459,
+    "businessName":"Rivers' Finest LLC",
+    "businessCity":"Reidsville",
+    "businessState":"North Carolina",
+    "businessAddress":"328 Blueberry Road",
+    "zipcode":27320,
+    "fullAddress":"Reidsville, North Carolina, 328 Blueberry Road, 27320",
+    "website":"www.riversfinest.com",
+    "reviewDate":"06/10/2020 to 08/10/2020",
+    "categories":"Canned or preserved food, Cut flowers, Herbs, Fresh fruits, Fresh vegetables, Nursery stock,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.887,35.03388 ]
+    },
+    "properties": {
+    "businessId":4015805,
+    "businessName":"Walnut Hollow Ranch",
+    "businessCity":"Hayesville",
+    "businessState":"North Carolina",
+    "businessAddress":"1100 Carter Cove Road",
+    "zipcode":28904,
+    "fullAddress":"Hayesville, North Carolina, 1100 Carter Cove Road, 28904",
+    "website":"www.walnuthollowranch.com",
+    "reviewDate":"06/10/2020 to 08/10/2021",
+    "categories":"Eggs, Fish and/or seafood, Honey, Pet food, Poultry products, Non-poultry meat, Soap, Walnuts, Compost, Firewood,",
+    "ActivityList":"Educational tours/ classes; Other: Farm tours, cookouts, farm to table suppers, cooking classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.3657,35.5176 ]
+    },
+    "properties": {
+    "businessId":4017451,
+    "businessName":"Ronnie's Berry Farm",
+    "businessCity":"27501Angier",
+    "businessState":"North Carolina",
+    "businessAddress":"18409 nc 210 hwy",
+    "zipcode":27501,
+    "fullAddress":"27501Angier, North Carolina, 18409 nc 210 hwy, 27501",
+    "website":"ronniesberryfarm.com",
+    "reviewDate":"07/01/2014 to 08/30/2014",
+    "categories":"Canned or preserved food, Fresh fruits, Honey,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.1657,36.19873 ]
+    },
+    "properties": {
+    "businessId":4017204,
+    "businessName":"Captain John's Lamb LLC",
+    "businessCity":"cedar Grove",
+    "businessState":"North Carolina",
+    "businessAddress":"6909 Efland-Cedar Grove Rd",
+    "zipcode":27231,
+    "fullAddress":"cedar Grove, North Carolina, 6909 Efland-Cedar Grove Rd, 27231",
+    "website":"http://www.dorperscedargrovenc.com/",
+    "reviewDate":"All Year",
+    "categories":"Canned or preserved food, Fresh fruits, Honey,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -82.5699,36.35831 ]
+    },
+    "properties": {
+    "businessId":4004359,
+    "businessName":"Clover Creek Farm",
+    "businessCity":"Jonesborough",
+    "businessState":"Tennessee",
+    "businessAddress":"529 Harmony Road",
+    "zipcode":37659,
+    "fullAddress":"Jonesborough, Tennessee, 529 Harmony Road, 37659",
+    "website":"clovercreekhairsheep.com",
+    "reviewDate":"01/01/2015 to 12/31/2015",
+    "categories":"Eggs, Poultry products,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Flush toilets; Picnic areas without tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.8792,32.64721 ]
+    },
+    "properties": {
+    "businessId":4022305,
+    "businessName":"Sweet Morning Acres",
+    "businessCity":"Fort Valley",
+    "businessState":"Georgia",
+    "businessAddress":"478 Blasingame Road",
+    "zipcode":31030,
+    "fullAddress":"Fort Valley, Georgia, 478 Blasingame Road, 31030",
+    "website":"N/A",
+    "reviewDate":"01/01/2017 to 12/31/2017",
+    "categories":"Eggs,",
+    "ActivityList":"Educational tours/ classes;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -79.4108,36.45869 ]
+    },
+    "properties": {
+    "businessId":4000236,
+    "businessName":"SleepyGoat Cheese LLC",
+    "businessCity":"Pelham",
+    "businessState":"North Carolina",
+    "businessAddress":"7215 Allison Road",
+    "zipcode":27311,
+    "fullAddress":"Pelham, North Carolina, 7215 Allison Road, 27311",
+    "website":"www.sleepygoatfarm.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Dairy products, Eggs,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Tours of manufacturing facilities; Other: Vacation apartment rental;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.2992,35.68564 ]
+    },
+    "properties": {
+    "businessId":4016018,
+    "businessName":"Creekside Farm",
+    "businessCity":"Selma",
+    "businessState":"North Carolina",
+    "businessAddress":"300 Pine Tree Road",
+    "zipcode":27576,
+    "fullAddress":"Selma, North Carolina, 300 Pine Tree Road, 27576",
+    "website":"www.creeksidefarmberries.com",
+    "reviewDate":"05/17/2015 to 08/31/2015",
+    "categories":"Canned or preserved food, Fresh fruits, Fresh vegetables, Honey, Juices,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.3251,33.52285 ]
+    },
+    "properties": {
+    "businessId":4022370,
+    "businessName":"Atlanta Harvest",
+    "businessCity":"Jonesboro",
+    "businessState":"Georgia",
+    "businessAddress":"2024 Walt Stephens Road",
+    "zipcode":30236,
+    "fullAddress":"Jonesboro, Georgia, 2024 Walt Stephens Road, 30236",
+    "website":"www.AtlantaHarvest.com",
+    "reviewDate":"01/01/2018 to 12/31/2018",
+    "categories":"Canned or preserved food, Coffee and/or tea, Eggs, Fresh fruits, Fresh vegetables, Non-poultry meat, Soap,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Other: event space rentals;",
+    "FacilitiesList":"Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.8615,36.76774 ]
+    },
+    "properties": {
+    "businessId":4001161,
+    "businessName":"Dreamland Alpacas",
+    "businessCity":"Meadowview",
+    "businessState":"Virginia",
+    "businessAddress":"13050 Bell Lane",
+    "zipcode":24361,
+    "fullAddress":"Meadowview, Virginia, 13050 Bell Lane, 24361",
+    "website":"N/A",
+    "reviewDate":"All Year",
+    "categories":"Canned or preserved food, Coffee and/or tea, Eggs, Fresh fruits, Fresh vegetables, Non-poultry meat, Soap,",
+    "ActivityList":"Educational tours/ classes; Family/ youth activities; Other: event space rentals;",
+    "FacilitiesList":"Flush toilets;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -81.0784,36.87542 ]
+    },
+    "properties": {
+    "businessId":4004482,
+    "businessName":"Beagle Ridge Herb Farm",
+    "businessCity":"Wytheville",
+    "businessState":"Virginia",
+    "businessAddress":"1934 Matney Flats Rd",
+    "zipcode":24382,
+    "fullAddress":"Wytheville, Virginia, 1934 Matney Flats Rd, 24382",
+    "website":"www.beagleridgeherbfarm.com",
+    "reviewDate":"All Year",
+    "categories":"Soap,",
+    "ActivityList":"Celebrations/ corporate events; Educational tours/ classes; Farm meals (lunches, dinners, etc.); Family/ youth activities; Other: butterfly house, hiking trails etc.;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas with tables;"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -80.6994,36.87262 ]
+    },
+    "properties": {
+    "businessId":4017633,
+    "businessName":"Deer Haven Blueberry Patch",
+    "businessCity":"Allisonia",
+    "businessState":"Virginia",
+    "businessAddress":"118 Raven Ridge",
+    "zipcode":24347,
+    "fullAddress":"Allisonia, Virginia, 118 Raven Ridge, 24347",
+    "website":"www.deerhavenblueberrypatch.comn",
+    "reviewDate":"06/15/2015 to 08/07/2015",
+    "categories":"Canned or preserved food, Fresh fruits,",
+    "ActivityList":"Pick Your Own/U-Pick operation;",
+    "FacilitiesList":"Hand washing station(s);"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -83.5388,35.99964 ]
+    },
+    "properties": {
+    "businessId":4016500,
+    "businessName":"Brewers Mushrooms",
+    "businessCity":"Dandridge",
+    "businessState":"Tennessee",
+    "businessAddress":"850 Hide A Way Road",
+    "zipcode":37725,
+    "fullAddress":"Dandridge, Tennessee, 850 Hide A Way Road, 37725",
+    "website":"www.brewersmushrooms.com",
+    "reviewDate":"01/01/2014 to 12/31/2014",
+    "categories":"Mushrooms,",
+    "ActivityList":"Educational tours/ classes;  See how fresh mushrooms are grown;",
+    "FacilitiesList":"Hand washing station(s); Flush toilets; Picnic areas without tables;"
+    }
+  }
+]
+}
