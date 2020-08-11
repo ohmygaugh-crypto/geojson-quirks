@@ -1,8 +1,8 @@
 import click
 import cligj
 import json
-with open('GeoJSONFarm2.geojson') as json_file:
-    data = json.load(json_file)
+with open('GeoJSONFarm2.geojson') as f:
+    data = json.load(f)
     
 from collections import OrderedDict
 from geojson_quirks import tweak_feature
