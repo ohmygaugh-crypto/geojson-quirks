@@ -1,8 +1,9 @@
 import click
 import cligj
 import json
-with open("GeoJSONFarm2.geojson", 'w') as f:
-        json.dump(datastore, f)
+with open('GeoJSONFarm2.geojson') as json_file:
+    data = json.load(json_file)
+    
 from collections import OrderedDict
 from geojson_quirks import tweak_feature
 
@@ -51,14 +52,14 @@ def main(features, sequence, use_rs, gather_properties, flatten,
         for feature in process_features(features):
             if use_rs:
                 click.echo(b'\x1e', nl=False)
-            click.echo(json.dump(feature))
+            click.echo(json.dumps(feature))
     else:
         if type_first:
-            click.echo(json.dump(
+            click.echo(json.dumps(
                 OrderedDict([
                     ('type', 'FeatureCollection'),
                     ('features', list(process_features(features)))])))
         else:
-            click.echo(json.dump(
+            click.echo(json.dumps(
                 {'type': 'FeatureCollection',
                  'features': list(process_features(features))}))
